@@ -3,6 +3,8 @@
 
 ## 윈앱으로 가계부 만들기
 
+https://github.com/user-attachments/assets/833eb08e-f74b-413b-b4bd-70669f45f1f8
+
 - 프로젝트 설명
     - 입력 및 화면 출력
         - 화면 상단 : 날짜 선택 후 항목, 가격, 수입/지출 입력
